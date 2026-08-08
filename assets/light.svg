@@ -116,6 +116,7 @@
           </rect></clipPath>
           <text x="556" y="206" clip-path="url(#clipRole0)" fill="#0F172A">AI ML Engineer</text>
           <rect x="730" y="192" width="3" height="18" fill="#2563EB">
+              
             <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="0.9s" repeatCount="indefinite"/>
           </rect>
         </g>
@@ -200,92 +201,85 @@
     </text>
             <g class="pill" opacity="0" transform="translate(532,434)">
               <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.9s" fill="freeze"/>
-              <rect class="pillGlow" x="-3" y="-3" width="85" height="38" rx="19" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0" filter="url(#glowStrong)">
-                <animate attributeName="opacity" values="0.15;0.55;0.15" dur="3s" begin="3.9s" repeatCount="indefinite"/>
-              </rect>
-              <rect width="79" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.8" stroke="#0F172A" stroke-opacity="0.08"/>
-              <text x="39.5" y="21.0" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#0F172A">React</text>
-            </g>
-            <g class="pill" opacity="0" transform="translate(621,434)">
-              <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.02s" fill="freeze"/>
-              <rect class="pillGlow" x="-3" y="-3" width="103" height="38" rx="19" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0" filter="url(#glowStrong)">
-                <animate attributeName="opacity" values="0.15;0.55;0.15" dur="3s" begin="4.02s" repeatCount="indefinite"/>
-              </rect>
-              <rect width="97" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.8" stroke="#0F172A" stroke-opacity="0.08"/>
-              <text x="48.5" y="21.0" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#0F172A">Next.js</text>
-            </g>
-            <g class="pill" opacity="0" transform="translate(728,434)">
-              <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.14s" fill="freeze"/>
-              <rect class="pillGlow" x="-3" y="-3" width="103" height="38" rx="19" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0" filter="url(#glowStrong)">
-                <animate attributeName="opacity" values="0.15;0.55;0.15" dur="3s" begin="4.14s" repeatCount="indefinite"/>
-              </rect>
-              <rect width="97" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.8" stroke="#0F172A" stroke-opacity="0.08"/>
-              <text x="48.5" y="21.0" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#0F172A">Node.js</text>
-            </g>
-            <g class="pill" opacity="0" transform="translate(835,434)">
-              <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.26s" fill="freeze"/>
-              <rect class="pillGlow" x="-3" y="-3" width="130" height="38" rx="19" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0" filter="url(#glowStrong)">
-                <animate attributeName="opacity" values="0.15;0.55;0.15" dur="3s" begin="4.26s" repeatCount="indefinite"/>
-              </rect>
-              <rect width="124" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.8" stroke="#0F172A" stroke-opacity="0.08"/>
-              <text x="62.0" y="21.0" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#0F172A">TypeScript</text>
-            </g>
-            <g class="pill" opacity="0" transform="translate(969,434)">
-              <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.38s" fill="freeze"/>
-              <rect class="pillGlow" x="-3" y="-3" width="112" height="38" rx="19" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0" filter="url(#glowStrong)">
-                <animate attributeName="opacity" values="0.15;0.55;0.15" dur="3s" begin="4.38s" repeatCount="indefinite"/>
-              </rect>
-              <rect width="106" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.8" stroke="#0F172A" stroke-opacity="0.08"/>
-              <text x="53.0" y="21.0" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#0F172A">Tailwind</text>
-            </g>
-            <g class="pill" opacity="0" transform="translate(532,478)">
-              <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.5s" fill="freeze"/>
               <rect class="pillGlow" x="-3" y="-3" width="94" height="38" rx="19" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0" filter="url(#glowStrong)">
-                <animate attributeName="opacity" values="0.15;0.55;0.15" dur="3s" begin="4.5s" repeatCount="indefinite"/>
+                <animate attributeName="opacity" values="0.15;0.55;0.15" dur="3s" begin="3.9s" repeatCount="indefinite"/>
               </rect>
               <rect width="88" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.8" stroke="#0F172A" stroke-opacity="0.08"/>
               <text x="44.0" y="21.0" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#0F172A">Python</text>
             </g>
-            <g class="pill" opacity="0" transform="translate(630,478)">
-              <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.62s" fill="freeze"/>
+            <g class="pill" opacity="0" transform="translate(630,434)">
+              <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.02s" fill="freeze"/>
+              <rect class="pillGlow" x="-3" y="-3" width="130" height="38" rx="19" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0" filter="url(#glowStrong)">
+                <animate attributeName="opacity" values="0.15;0.55;0.15" dur="3s" begin="4.02s" repeatCount="indefinite"/>
+              </rect>
+              <rect width="124" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.8" stroke="#0F172A" stroke-opacity="0.08"/>
+              <text x="62.0" y="21.0" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#0F172A">TensorFlow</text>
+            </g>
+            <g class="pill" opacity="0" transform="translate(764,434)">
+              <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.14s" fill="freeze"/>
+              <rect class="pillGlow" x="-3" y="-3" width="148" height="38" rx="19" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0" filter="url(#glowStrong)">
+                <animate attributeName="opacity" values="0.15;0.55;0.15" dur="3s" begin="4.14s" repeatCount="indefinite"/>
+              </rect>
+              <rect width="142" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.8" stroke="#0F172A" stroke-opacity="0.08"/>
+              <text x="71.0" y="21.0" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#0F172A">scikit-learn</text>
+            </g>
+            <g class="pill" opacity="0" transform="translate(916,434)">
+              <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.26s" fill="freeze"/>
               <rect class="pillGlow" x="-3" y="-3" width="94" height="38" rx="19" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0" filter="url(#glowStrong)">
-                <animate attributeName="opacity" values="0.15;0.55;0.15" dur="3s" begin="4.62s" repeatCount="indefinite"/>
+                <animate attributeName="opacity" values="0.15;0.55;0.15" dur="3s" begin="4.26s" repeatCount="indefinite"/>
               </rect>
               <rect width="88" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.8" stroke="#0F172A" stroke-opacity="0.08"/>
-              <text x="44.0" y="21.0" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#0F172A">Docker</text>
+              <text x="44.0" y="21.0" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#0F172A">OpenCV</text>
             </g>
-            <g class="pill" opacity="0" transform="translate(728,478)">
+            <g class="pill" opacity="0" transform="translate(1014,434)">
+              <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.38s" fill="freeze"/>
+              <rect class="pillGlow" x="-3" y="-3" width="94" height="38" rx="19" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0" filter="url(#glowStrong)">
+                <animate attributeName="opacity" values="0.15;0.55;0.15" dur="3s" begin="4.38s" repeatCount="indefinite"/>
+              </rect>
+              <rect width="88" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.8" stroke="#0F172A" stroke-opacity="0.08"/>
+              <text x="44.0" y="21.0" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#0F172A">Pandas</text>
+            </g>
+            <g class="pill" opacity="0" transform="translate(532,478)">
+              <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.5s" fill="freeze"/>
+              <rect class="pillGlow" x="-3" y="-3" width="157" height="38" rx="19" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0" filter="url(#glowStrong)">
+                <animate attributeName="opacity" values="0.15;0.55;0.15" dur="3s" begin="4.5s" repeatCount="indefinite"/>
+              </rect>
+              <rect width="151" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.8" stroke="#0F172A" stroke-opacity="0.08"/>
+              <text x="75.5" y="21.0" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#0F172A">Deep Learning</text>
+            </g>
+            <g class="pill" opacity="0" transform="translate(693,478)">
+              <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.62s" fill="freeze"/>
+              <rect class="pillGlow" x="-3" y="-3" width="67" height="38" rx="19" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0" filter="url(#glowStrong)">
+                <animate attributeName="opacity" values="0.15;0.55;0.15" dur="3s" begin="4.62s" repeatCount="indefinite"/>
+              </rect>
+              <rect width="61" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.8" stroke="#0F172A" stroke-opacity="0.08"/>
+              <text x="30.5" y="21.0" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#0F172A">NLP</text>
+            </g>
+            <g class="pill" opacity="0" transform="translate(764,478)">
               <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.74s" fill="freeze"/>
-              <rect class="pillGlow" x="-3" y="-3" width="112" height="38" rx="19" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0" filter="url(#glowStrong)">
+              <rect class="pillGlow" x="-3" y="-3" width="175" height="38" rx="19" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0" filter="url(#glowStrong)">
                 <animate attributeName="opacity" values="0.15;0.55;0.15" dur="3s" begin="4.74s" repeatCount="indefinite"/>
               </rect>
-              <rect width="106" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.8" stroke="#0F172A" stroke-opacity="0.08"/>
-              <text x="53.0" y="21.0" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#0F172A">Postgres</text>
+              <rect width="169" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.8" stroke="#0F172A" stroke-opacity="0.08"/>
+              <text x="84.5" y="21.0" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#0F172A">Computer Vision</text>
             </g>
-            <g class="pill" opacity="0" transform="translate(844,478)">
+            <g class="pill" opacity="0" transform="translate(943,478)">
               <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.86s" fill="freeze"/>
               <rect class="pillGlow" x="-3" y="-3" width="67" height="38" rx="19" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0" filter="url(#glowStrong)">
                 <animate attributeName="opacity" values="0.15;0.55;0.15" dur="3s" begin="4.86s" repeatCount="indefinite"/>
               </rect>
               <rect width="61" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.8" stroke="#0F172A" stroke-opacity="0.08"/>
-              <text x="30.5" y="21.0" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#0F172A">AWS</text>
+              <text x="30.5" y="21.0" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#0F172A">SQL</text>
             </g>
-            <g class="pill" opacity="0" transform="translate(915,478)">
+            <g class="pill" opacity="0" transform="translate(1014,478)">
               <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.98s" fill="freeze"/>
               <rect class="pillGlow" x="-3" y="-3" width="67" height="38" rx="19" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0" filter="url(#glowStrong)">
                 <animate attributeName="opacity" values="0.15;0.55;0.15" dur="3s" begin="4.98s" repeatCount="indefinite"/>
               </rect>
               <rect width="61" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.8" stroke="#0F172A" stroke-opacity="0.08"/>
-              <text x="30.5" y="21.0" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#0F172A">Git</text>
+              <text x="30.5" y="21.0" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#0F172A">DSA</text>
             </g>
-            <g class="pill" opacity="0" transform="translate(986,478)">
-              <animate attributeName="opacity" values="0;1" dur="0.4s" begin="5.1s" fill="freeze"/>
-              <rect class="pillGlow" x="-3" y="-3" width="85" height="38" rx="19" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0" filter="url(#glowStrong)">
-                <animate attributeName="opacity" values="0.15;0.55;0.15" dur="3s" begin="5.1s" repeatCount="indefinite"/>
-              </rect>
-              <rect width="79" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.8" stroke="#0F172A" stroke-opacity="0.08"/>
-              <text x="39.5" y="21.0" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="600" fill="#0F172A">Figma</text>
-            </g><line x1="532" y1="522" x2="1120" y2="522" stroke="#0F172A" stroke-opacity="0.08"/>
+            <line x1="532" y1="522" x2="1120" y2="522" stroke="#0F172A" stroke-opacity="0.08"/>
         <g class="social" opacity="0" transform="translate(550,544)">
           <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.9s" fill="freeze"/>
           <circle class="ring" r="15" fill="#FFFFFF" fill-opacity="0.8" stroke="#2563EB" stroke-opacity="0.55" stroke-width="1.4" filter="url(#glowSoft)">
